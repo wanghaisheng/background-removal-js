@@ -1,3 +1,5 @@
+2024-12-18
+
 # Background Removal in the Browser & Node.js
 
 ### 🚨 We are hiring 🚨
